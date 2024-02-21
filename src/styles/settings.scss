@@ -1,4 +1,6 @@
 @use 'vuetify/settings' with (
     $body-font-family: 'Poppins',
-    $border-radius-root: 8px,
+    $border-radius-root: 0,
+    $button-text-transform: none,
+    $button-text-letter-spacing: 0,
 );
