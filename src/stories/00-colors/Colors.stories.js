@@ -4,8 +4,9 @@ export default {
   title: "Design/Colors",
   component: Colors,
   parameters: {
-    // More on how to position stories at: https://storybook.js.org/docs/7.0/vue/configure/story-layout
     layout: "fullscreen",
+    controls: {disable: true},
+    actions: {disable: true}
   },
 };
 
