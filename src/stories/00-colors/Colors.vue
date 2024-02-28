@@ -7,8 +7,6 @@
         <v-card color="black" class="pa-4" title="Black" subtitle="#181818" />
       </v-col>
 
-
-
       <v-col class="v-col-lg-4">
         <v-card color="bg" class="pa-4 mb-4" title="Background" subtitle="#F2F2F2" />
         <v-card color="disable" class="pa-4 mb-4" title="Disable" subtitle="#D2D2D2" />
